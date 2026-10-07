@@ -106,7 +106,7 @@ My personal portfolio website showcasing my projects, skills and experience.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[YOUR_PORTFOLIO_URL](https://surajkumar-portfoli.vercel.app/)">
+<a href="https://surajkumar-portfoli.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-00A8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
