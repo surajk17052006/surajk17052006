@@ -102,11 +102,11 @@ My personal portfolio website showcasing my projects, skills and experience.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/suraj-kumar-2aa40b296/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="[YOUR_PORTFOLIO_URL](https://surajkumar-portfoli.vercel.app/)">
 <img src="https://img.shields.io/badge/Portfolio-00A8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
