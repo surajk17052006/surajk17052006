@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm SURAJ PANDEY SK</h1>
+<h1 align="center">👋 Hi, I'm SURAJ KUMAR </h1>
 
 <h3 align="center">
 🚀 Java Full Stack Developer | B.Tech CSE Student
