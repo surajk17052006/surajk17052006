@@ -1,170 +1,143 @@
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:071B35,100:00D9FF&text=SURAJ%20PANDEY%20SK&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=JAVA%20FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=60"/>
+<!-- ===================== ANIMATED HEADER ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;REST+API+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies+%F0%9F%9A%80"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8FF,50:0066FF,100:7C3AED&height=220&section=header&text=SURAJ%20KUMAR&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Java%20Full%20Stack%20Developer&descAlignY=60&descSize=20" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+REST+API;Backend+%26+Frontend+Developer;DSA+%7C+LeetCode+%7C+Problem+Solving;Building+Real+World+Applications;Turning+Ideas+Into+Code+%F0%9F%9A%80" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,express,postgres,mongodb,git,github&perline=10" />
+</p>
 
-👨‍💻 DEVELOPER PROFILE
+<br>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=surajk17052006&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/surajk17052006?label=FOLLOWERS&style=for-the-badge&color=7C3AED" />
+</p>
+
+---
+
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
-👋 Hi, I'm Suraj  
-🚀 Java Full Stack Developer
+### 🚀 I'm Suraj Kumar
 
-╔══════════════════════════════════════╗
-║                                      ║
-║        SURAJ PANDEY SK               ║
-║        JAVA FULL STACK DEV           ║
-║                                      ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  ☕  Java                            ║
-║  🌱  Spring Boot                    ║
-║  ⚛️  React                          ║
-║  🔗  REST API                       ║
-║  🐘  PostgreSQL                     ║
-║  🍃  MongoDB                        ║
-║                                      ║
-╚══════════════════════════════════════╝
+🎓 B.Tech CSE Student
 
-🎓 B.Tech Computer Science Engineering Student  
-💻 Passionate about Java Full Stack Development  
-🚀 Building real-world web applications  
-🧠 Learning DSA, Spring Boot & System Design  
+💻 **Java Full Stack Developer**
+
+⚡ Building modern web applications
+
+🔐 Interested in backend architecture & secure APIs
+
+🧠 Practicing DSA & LeetCode
+
+🌱 Currently learning advanced Spring Boot, React & Docker
+
 📍 Bhopal, Madhya Pradesh, India
 
 </td>
 
-<td width="40%">
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,mongodb,git,github&perline=5"/>
-
-<img src="https://img.shields.io/badge/JAVA-FULL%20STACK-00D9FF?style=for-the-badge&labelColor=050505"/>
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00D9FF?style=for-the-badge&labelColor=050505"/>
-
-<img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-00D9FF?style=for-the-badge&labelColor=050505"/>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-⚡ TECH STACK
-
-</div>
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-☕ BACKEND
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express"/>
-
-</td>
-
-<td align="center" width="33%">
-
-⚛️ FRONTEND
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap"/>
-
-</td>
-
-<td align="center" width="33%">
-
-🗄️ DATABASE
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-🧊 MY DEVELOPMENT WORLD
-
-</div>
-
-<table>
-<tr>
-<td align="center">
+<td width="45%">
 
 ```text
-                 ┌─────────────┐
-                 │    JAVA     │
-                 └──────┬──────┘
-                        ↓
-                 ┌─────────────┐
-                 │ SPRING BOOT │
-                 └──────┬──────┘
-                        ↓
-                 ┌─────────────┐
-                 │   REST API  │
-                 └──────┬──────┘
-                        ↓
-                 ┌─────────────┐
-                 │ POSTGRESQL  │
-                 └──────┬──────┘
-                        ↓
-                 ┌─────────────┐
-                 │    REACT    │
-                 └──────┬──────┘
-                        ↓
-                 ┌─────────────┐
-                 │ FULL STACK  │
-                 └─────────────┘
+┌─────────────────────────────┐
+│       DEVELOPER MODE        │
+├─────────────────────────────┤
+│                             │
+│  Java        █████████░ 90% │
+│  Spring Boot ████████░░ 80% │
+│  React       ████████░░ 80% │
+│  SQL         ████████░░ 80% │
+│  JavaScript  ███████░░░ 70% │
+│  DSA         ██████░░░░ 60% │
+│                             │
+│  STATUS: BUILDING 🚀        │
+└─────────────────────────────┘
 ```
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-🚀 FEATURED PROJECTS
+## ⚡ Tech Stack
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,bootstrap,spring,nodejs,express,postgres,mongodb,mysql,git,github,vscode,eclipse,postman,docker&perline=10" />
+</p>
+
+---
+
+## 🐍 Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajk17052006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajk17052006&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Coding Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=surajk17052006&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=surajk17052006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajk17052006&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 💻 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%">
 
 ### 💰 Expense Management
 
-Full-stack expense management application with authentication and authorization.
+Full-stack expense management application.
 
-**Architecture**
+**Tech**
 - React
+- Java
 - Spring Boot
 - REST API
 - PostgreSQL
 
-**Features**
-- Authentication
-- Authorization
-- Expense CRUD
-- REST APIs
-- Database integration
-
-**Tech:** Java, Spring Boot, React, PostgreSQL
+🔐 Authentication & Authorization  
+📊 Expense Tracking  
+⚡ REST API Integration
 
 </td>
 
@@ -172,161 +145,89 @@ Full-stack expense management application with authentication and authorization.
 
 ### 🏦 Recurring Deposit System
 
-Web-based RD management system.
+Modern RD management application.
 
-**Architecture**
+**Tech**
 - React
 - Node.js
 - Express
 - PostgreSQL
 
-**Features**
-- Customer Management
-- RD Management
-- Passbook
-- REST API
-- Database Integration
-
-**Tech:** React, Node.js, Express, PostgreSQL
+👤 Customer Management  
+💰 Deposit Management  
+📒 Passbook Management  
+🔄 REST API
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🌐 Developer Portfolio
-
-Personal portfolio website showcasing my skills, projects and developer journey.
-
-**Tech:** React, JavaScript, HTML, CSS
-
-</td>
-
-<td width="50%">
-
-### 🔗 Spring Boot REST API
-
-Backend API project built using Spring Boot.
-
-**Tech:** Java, Spring Boot, REST API, PostgreSQL
-
-</td>
-
 </tr>
 </table>
 
-<div align="center">
+---
 
-📊 GITHUB ANALYTICS
+## 🧠 LeetCode Journey
 
-<img src="https://github-readme-stats.vercel.app/api?username=surajk17052006&show_icons=true&hide_border=true&bg_color=050505&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github"/>
+<p align="center">
+  <a href="https://leetcode.com/u/surajkumar1705/">
+    <img src="https://leetcard.jacoblin.cool/surajkumar1705?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajk17052006&layout=compact&hide_border=true&bg_color=050505&title_color=00D9FF&text_color=FFFFFF"/>
+<p align="center">
+  <a href="https://leetcode.com/u/surajkumar1705/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=surajk17052006&hide_border=true&background=050505&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"/>
+<p align="center">
+  🧠 Solving DSA Problems &nbsp; • &nbsp;
+  🔥 Improving Problem Solving &nbsp; • &nbsp;
+  🚀 Consistent Learning
+</p>
+---
 
-</div>
+## 🎯 Currently Learning
 
-<div align="center">
+<p align="center">
 
-💻 CODING MINDSET
+<img src="https://img.shields.io/badge/Spring%20Boot-Advanced-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-```text
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│       THINK → CODE → TEST → DEBUG              │
-│          ↑                        ↓             │
-│          └────── LEARN ──────────┘              │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
+<img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-🔥 Always Learning • Always Building • Always Improving
+<img src="https://img.shields.io/badge/DSA-Practicing-FF6B6B?style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/System%20Design-Learning-7C3AED?style=for-the-badge"/>
 
-🎯 CURRENT FOCUS
+</p>
 
-<table>
-<tr>
 
-<td align="center">
 
-☕ JAVA
+## 🤝 Connect With Me
 
-OOP  
-Collections  
-Exception Handling  
-Multithreading
-
-</td>
-
-<td align="center">
-
-🌱 SPRING BOOT
-
-REST API  
-JPA / Hibernate  
-Security  
-Microservices
-
-</td>
-
-<td align="center">
-
-⚛️ REACT
-
-Components  
-Hooks  
-Routing  
-API Integration
-
-</td>
-
-<td align="center">
-
-🧠 DSA
-
-Arrays  
-Strings  
-Linked List  
-Trees
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-🌐 CONNECT WITH ME
-
-<a href="https://github.com/surajk17052006">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00D9FF"/>
-</a>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/suraj-kumar-2aa40b296/">
-<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/surajk17052006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://surajkumar-portfoli.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=googlechrome&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Portfolio-00A8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
-<div align="center">
 
-⚡ CODE • BUILD • LEARN • REPEAT ⚡
+<h3 align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00D9FF,50:071B35,100:020617"/>
+🚀 CODE • BUILD • LEARN • REPEAT 🚀
 
-</div>
- 
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0066FF,100:00D9FF&height=120&section=footer&animation=twinkling" />
+</p>
