@@ -329,11 +329,4 @@ Trees
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00D9FF,50:071B35,100:020617"/>
 
 </div>
-'''
-
-path = Path("/mnt/data/README_CLEAN.md")
-path.write_text(readme, encoding="utf-8")
-
-print(f"Created: {path}")
-print(f"Lines: {len(readme.splitlines())}")
-print(f"Size: {path.stat().st_size} bytes")
+ 
