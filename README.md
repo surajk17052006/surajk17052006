@@ -183,6 +183,8 @@ Modern RD management application.
   🔥 Improving Problem Solving &nbsp; • &nbsp;
   🚀 Consistent Learning
 </p>
+
+
 ---
 
 ## 🎯 Currently Learning
@@ -201,7 +203,7 @@ Modern RD management application.
 
 </p>
 
-
+---
 
 ## 🤝 Connect With Me
 
@@ -221,6 +223,7 @@ Modern RD management application.
 
 </p>
 
+---
 
 <h3 align="center">
 
