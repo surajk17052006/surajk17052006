@@ -1,121 +1,33 @@
-<h1 align="center">👋 Hi, I'm SURAJ KUMAR </h1>
-
-<h3 align="center">
-🚀 Java Full Stack Developer | B.Tech CSE Student
-</h3>
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;REST+API+Developer;Always+Learning+New+Technologies" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071B2F,100:00A8FF&height=220&section=header&text=SURAJ%20PANDEY%20SK&fontSize=48&fontColor=00D9FF&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18&animation=fadeIn"/>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-🎓 B.Tech Computer Science Engineering Student  
-💻 Passionate about **Java Full Stack Development**  
-🌱 Currently improving my skills in **Spring Boot, React & DSA**  
-🚀 I love building practical and user-friendly web applications  
-📍 Bhopal, Madhya Pradesh, India
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap" />
-</p>
-
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-</p>
-
-### 🔧 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 💰 Expense Management System
-Full-stack expense management application with authentication and authorization.
-
-**Tech:** React • Java • Spring Boot • REST API • PostgreSQL
-
----
-
-### 🏦 Recurring Deposit System
-
-A web-based RD management system for handling recurring deposits and customer information.
-
-**Tech:** React • Node.js • Express • PostgreSQL
-
----
-
-### 🌐 Developer Portfolio
-
-My personal portfolio website showcasing my projects, skills and experience.
-
-**Tech:** React • JavaScript • HTML • CSS
-
----
-
-## 📊 GitHub Stats
+<!-- ===================== TYPING ===================== -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=surajk17052006&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;REST+API+Developer;Building+Projects+That+Matter+%F0%9F%9A%80"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajk17052006&theme=tokyonight&hide_border=true" />
-</p>
+<br>
 
----
+<!-- ===================== INTRO ===================== -->
 
-## 📈 Most Used Languages
+<table>
+<tr>
+<td width="55%">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajk17052006&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 👋 Hi, I'm Suraj
 
----
+I'm a **B.Tech Computer Science Engineering student** and aspiring **Java Full Stack Developer**.
 
-## 🤝 Connect With Me
+I enjoy building modern, responsive and practical web applications using Java, Spring Boot, React and databases.
 
-<p align="center">
-
-<a href="https://github.com/surajk17052006">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/suraj-kumar-2aa40b296/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://surajkumar-portfoli.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00A8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">💡 "Code. Learn. Build. Repeat." 🚀</h3>
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+```text
+> java developer
+> spring boot
+> react
+> rest api
+> postgresql
+> always learning...
