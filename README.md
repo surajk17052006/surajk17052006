@@ -97,7 +97,8 @@
 ## 🔥 Coding Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=surajk17052006&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="<img width="900" height="1602" alt="image" src="https://github.com/user-attachments/assets/2305cf64-1c3c-4497-98c6-e0e449451b89" />
+" />
 </p>
 
 ---
