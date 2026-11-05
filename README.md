@@ -94,15 +94,7 @@
 
 ---
 -->
-## 🔥 Coding Streak
 
-<p align="center">
-  <img src="./download.png"
-       width="350"
-       alt="LeetCode 50 Days Badge 2026"/>
-</p>
-
----
 <!--
 ## 🏆 GitHub Trophies
 
@@ -189,6 +181,16 @@ Modern RD management application.
 
 ---
 
+## 🔥 Coding Streak
+
+<p align="center">
+  <img src="./download.png"
+       width="350"
+       alt="LeetCode 50 Days Badge 2026"/>
+</p>
+
+---
+
 ## 🎯 Currently Learning
 
 <p align="center">
@@ -206,6 +208,8 @@ Modern RD management application.
 </p>
 
 ---
+
+
 
 ## 🤝 Connect With Me
 
